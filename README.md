@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="#" align="center">![Github stats](https://github-readme-stats.vercel.app/api?username=TricolorAsp&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+
 <!--
 **TricolorAsp/TricolorAsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
