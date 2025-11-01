@@ -1,15 +1,11 @@
-# Hi there 👋 I'm Gabriele
+# Hi there 
 
-💻 **Junior Developer | Java Enthusiast**  
-💼 Currently **CEO & Developer at [Cloud Studio’s](https://github.com/CloudStudios)**  
 
-I’m passionate about building reliable backend systems, exploring clean architecture, and contributing to open-source projects.
+💻 I'm TricolorAsp and Mainly a **Java Developer**  
+💼 Working at **[Cloud Studio’s]** as **CEO & Developer** and **[HySpace Network](https://github.com/HySpace-Network)** as **Owner & Lead Developer**
 
----
+I focus on building clean, scalable backend systems and developing projects that balance simplicity, performance, and maintainability.
 
-### 🧠 About Me
-- 🎓 Constantly improving my **Java** and **Spring Boot** skills  
-- 🧩 Interested in **backend development**, **APIs**, and **software architecture**  
 
 ---
 
