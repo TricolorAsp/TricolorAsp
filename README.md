@@ -1,17 +1,15 @@
 # Hi there 👋 I'm Gabriele
 
-💻 **Software Developer | Java Enthusiast | Open Source Learner**
+💻 **Junior Developer | Java Enthusiast**  
+💼 Currently **CEO & Developer at [Cloud Studio’s](https://github.com/CloudStudios)**  
 
-Welcome to my GitHub profile!  
 I’m passionate about building reliable backend systems, exploring clean architecture, and contributing to open-source projects.
 
 ---
 
 ### 🧠 About Me
-- 🎓 Currently studying / working on improving my **Java** and **Spring Boot** skills  
+- 🎓 Constantly improving my **Java** and **Spring Boot** skills  
 - 🧩 Interested in **backend development**, **APIs**, and **software architecture**  
-- 🚀 Always learning something new — currently diving into **Docker** and **CI/CD**  
-- 💬 Ask me about Java, object-oriented programming, or backend design  
 
 ---
 
@@ -25,6 +23,7 @@ I’m passionate about building reliable backend systems, exploring clean archit
 #### ⚙️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
 
 #### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -32,19 +31,16 @@ I’m passionate about building reliable backend systems, exploring clean archit
 ---
 
 ### 📊 GitHub Stats
-![Gabriele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TricolorAsp&show_icons=true&theme=tokyonight)
+![Gabriele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TricolorAsp&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 💡 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TricolorAsp&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TricolorAsp&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/tuo-profilo)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tuo.email@example.com)
-
+[![Discord](https://img.shields.io/badge/Discord-tricolorasp-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/tricolorasp)
 ---
 
-⭐ *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
