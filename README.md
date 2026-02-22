@@ -2,7 +2,7 @@
 
 
 💻 I'm TricolorAsp and Mainly a **Java Developer**  
-💼 Working at **[Cloud Studio’s]** as **Owner & Developer** and **[ProudMC](https://github.com/ProudMC-IT)** as **Owner & Lead Developer**
+💼 Working at **[Cloud Studio’s]** as **CEO & Developer** and **[ProudMC](https://github.com/ProudMC-IT)** as **Owner & Developer**
 
 I focus on building clean, scalable backend systems and developing projects that balance simplicity, performance, and maintainability.
 
